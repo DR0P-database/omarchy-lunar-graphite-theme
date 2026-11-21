@@ -1,14 +1,14 @@
-# NieR Lunar Graphite
+# Lunar Graphite
 
-A dark Omarchy theme inspired by NieR:Automata, with a dithered moon and a warm graphite palette.
+An unofficial Omarchy theme inspired by NieR:Automata, with a dithered moon and a warm graphite palette.
 
-![NieR Lunar Graphite desktop with Foot and VS Code](preview.png)
+![Lunar Graphite desktop with Foot and VS Code](preview.png)
 ![Backgroud](backgrounds/1-lunar-disc.png)
 
 ## Install
 
 ```sh
-omarchy theme install https://github.com/DR0P-database/omarchy-nier-lunar-graphite-theme
+omarchy theme install https://github.com/DR0P-database/omarchy-lunar-graphite-theme
 ```
 
 ### Optional Foot colors
